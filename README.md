@@ -1,2 +1,2 @@
 # shell-learning
-basic shell scripting
+basic shell learning by self
