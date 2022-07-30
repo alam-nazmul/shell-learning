@@ -1,2 +1,2 @@
 # shell-learning
-basic shell scripting on Udemy
+basic shell learning by self
